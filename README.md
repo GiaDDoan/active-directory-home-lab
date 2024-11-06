@@ -11,20 +11,23 @@ I hope this inspires you to try building your own lab environment and see what y
 
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Gained hands-on experience with Active Directory configuration and administration.
+- Enhanced proficiency in setting up and managing a lab environment using virtual machines.
+- Improved skills in using Splunk for log ingestion, analysis, and monitoring.
+- Developed the ability to detect and analyze telemetry from simulated cyber-attacks.
+- Strengthened understanding of brute-force attack methods and their detection.
+- Acquired knowledge in deploying and utilizing Sysmon for detailed event logging.
+- Fostered critical thinking and problem-solving abilities in a cybersecurity context.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- VirtualBox for creating and managing virtual environments.
+- Windows Server 2022 and Windows 10 for Active Directory setup and domain management.
+- Kali Linux for conducting penetration testing and generating attack scenarios.
+- Splunk as the SIEM tool for log analysis and telemetry monitoring.
+- Atomic Red Team for creating realistic attack simulations and telemetry generation.
+- Sysmon for advanced event logging and system monitoring.
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
