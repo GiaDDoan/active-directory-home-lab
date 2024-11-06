@@ -1,5 +1,7 @@
 # Active Directory
 
+![active-directory-schema](https://github.com/user-attachments/assets/e6462b6d-8240-43b5-9f1e-0429f76162e3)
+
 ## Objective
 
 In my Active Directory Lab project, I aimed to showcase the process of building a home lab environment focused on learning Active Directory management and security. My goal was to create an environment that simulates real-world IT infrastructure and supports both blue team and general IT skill development. This comprehensive, hands-on project involved configuring an Active Directory domain, deploying assets such as Windows Server 2022, Windows 10, Kali Linux, and Splunk, and ingesting logs for event monitoring.
