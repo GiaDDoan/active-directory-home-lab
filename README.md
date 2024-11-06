@@ -1,8 +1,6 @@
 # Active Directory
 
 ![active-directory-schema](https://github.com/user-attachments/assets/e6462b6d-8240-43b5-9f1e-0429f76162e3)
-![Untitled Diagram drawio](https://github.com/user-attachments/assets/0c77b87a-4dd5-4c72-a940-211b522f3384)
-
 
 ## Objective
 
