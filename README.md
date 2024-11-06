@@ -1,9 +1,14 @@
 # Active-Directory
 
 ## Objective
-The Active Directory Lab project was designed to guide users through the process of building a home lab environment focused on learning Active Directory management and security. The primary goal was to enable participants to set up an environment that simulates real-world IT infrastructure and supports both blue team and general IT skill development. This comprehensive, hands-on series provided step-by-step instructions on configuring an Active Directory domain, deploying assets such as Windows Server 2022, Windows 10, Kali Linux, and Splunk, and ingesting logs for event monitoring.
 
-The project culminated in using Kali Linux to conduct a brute-force attack on the domain and leveraging Splunk to observe and analyze the generated telemetry. Participants also had the opportunity to use Atomic Red Team for further testing and analysis. This immersive experience aimed to strengthen understanding of Active Directory administration, domain structure, and cybersecurity monitoring practices while fostering technical confidence and troubleshooting skills.
+In my Active Directory Lab project, I aimed to showcase the process of building a home lab environment focused on learning Active Directory management and security. My goal was to create an environment that simulates real-world IT infrastructure and supports both blue team and general IT skill development. This comprehensive, hands-on project involved configuring an Active Directory domain, deploying assets such as Windows Server 2022, Windows 10, Kali Linux, and Splunk, and ingesting logs for event monitoring.
+
+I concluded the project by using Kali Linux to conduct a brute-force attack on the domain and leveraging Splunk to observe and analyze the generated telemetry. I also incorporated Atomic Red Team for further testing and analysis. This immersive experience helped me deepen my understanding of Active Directory administration, domain structure, and cybersecurity monitoring practices, while building my technical confidence and troubleshooting skills!
+
+I hope this inspires you to try building your own lab environment and see what you can learn!
+
+
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
