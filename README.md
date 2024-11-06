@@ -1,9 +1,9 @@
 # Active-Directory
 
 ## Objective
-[Brief Objective - Remove this afterwards]
+The Active Directory Lab project was designed to guide users through the process of building a home lab environment focused on learning Active Directory management and security. The primary goal was to enable participants to set up an environment that simulates real-world IT infrastructure and supports both blue team and general IT skill development. This comprehensive, hands-on series provided step-by-step instructions on configuring an Active Directory domain, deploying assets such as Windows Server 2022, Windows 10, Kali Linux, and Splunk, and ingesting logs for event monitoring.
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The project culminated in using Kali Linux to conduct a brute-force attack on the domain and leveraging Splunk to observe and analyze the generated telemetry. Participants also had the opportunity to use Atomic Red Team for further testing and analysis. This immersive experience aimed to strengthen understanding of Active Directory administration, domain structure, and cybersecurity monitoring practices while fostering technical confidence and troubleshooting skills.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
