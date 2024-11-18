@@ -32,10 +32,7 @@ I hope this inspires you to try building your own lab environment and see what y
 - Sysmon for advanced event logging and system monitoring.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
+Installed the required Virtual Machines for the project.
+![image](https://github.com/user-attachments/assets/86d6328c-eab1-4d59-8720-ce483ea32791)
 
-Example below.
-
-*Ref 1: Network Diagram*
