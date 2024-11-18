@@ -33,7 +33,7 @@ I hope this inspires you to try building your own lab environment and see what y
 
 ## Overview
 
-### <u>Installed the required Virtual Machines for the project</u>
+1. Installed the required Virtual Machines for the project
 
 - AD-Win-10 (Windows 10): Client Machine
 - AD-Kali-Linux (Kali Linux): Attacker Machine
