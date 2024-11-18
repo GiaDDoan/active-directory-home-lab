@@ -33,9 +33,9 @@ I hope this inspires you to try building your own lab environment and see what y
 
 ## Ovewview
 
-- Installed the required Virtual Machines for the project
+### Installed the required Virtual Machines for the project
 
--- AD-Win-10 (Windows 10): Client Machine
+- AD-Win-10 (Windows 10): Client Machine
 - AD-Kali-Linux (Kali Linux): Attacker Machine
 - AD-Win-Serv-2022 (Windows Server 2022): Server
 - AD-Splunk (Ubuntu): Splunk
