@@ -31,9 +31,9 @@ I hope this inspires you to try building your own lab environment and see what y
 - Atomic Red Team for creating realistic attack simulations and telemetry generation.
 - Sysmon for advanced event logging and system monitoring.
 
-## Ovewview
+## Overview
 
-### Installed the required Virtual Machines for the project
+### <u>Installed the required Virtual Machines for the project</u>
 
 - AD-Win-10 (Windows 10): Client Machine
 - AD-Kali-Linux (Kali Linux): Attacker Machine
