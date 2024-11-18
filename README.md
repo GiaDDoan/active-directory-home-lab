@@ -34,5 +34,6 @@ I hope this inspires you to try building your own lab environment and see what y
 ## Steps
 
 Installed the required Virtual Machines for the project.
+
 ![image](https://github.com/user-attachments/assets/86d6328c-eab1-4d59-8720-ce483ea32791)
 
