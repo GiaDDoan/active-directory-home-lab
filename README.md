@@ -54,5 +54,8 @@ I hope this inspires you to try building your own lab environment and see what y
 
 ![image](https://github.com/user-attachments/assets/be586e26-dea3-434c-97a8-15d644005f9d)
 
+4. Connected and Sent the target logs to the Splunk Server.
+
+![image](https://github.com/user-attachments/assets/b72f4087-a578-45e0-9987-ec3737c40190)
 
 
