@@ -46,4 +46,9 @@ I hope this inspires you to try building your own lab environment and see what y
 
 ![image](https://github.com/user-attachments/assets/baed67dd-3db8-45eb-aca1-615b2626bc28)
 
+3. Installed Splunk on the Splunk Server (Ubuntu).
+
+![image](https://github.com/user-attachments/assets/9d9c2a7a-1e66-48ab-a89e-bc93cdbe217f)
+
+
 
