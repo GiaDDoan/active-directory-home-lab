@@ -115,8 +115,3 @@ It culminates with a **brute-force attack from Kali Linux** and telemetry inspec
 - Enable PowerShell logging and WinRM for remote management.
 - Explore Windows Event Forwarding for log centralization.
 
----
-
-## 🖼️ Screenshots
-
-> _Coming soon: Splunk dashboards, event log views, attack telemetry samples._
