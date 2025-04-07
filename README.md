@@ -15,7 +15,6 @@ It culminates with a **brute-force attack from Kali Linux** and telemetry inspec
 - [Lab Breakdown](#lab-breakdown)
 - [Security & Monitoring](#security--monitoring)
 - [Future Enhancements](#future-enhancements)
-- [Screenshots](#screenshots)
 
 ---
 
