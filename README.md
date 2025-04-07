@@ -40,22 +40,15 @@ I hope this inspires you to try building your own lab environment and see what y
 - AD-Win-Serv-2022 (Windows Server 2022): Server
 - AD-Splunk (Ubuntu): Splunk
 
-![image](https://github.com/user-attachments/assets/86d6328c-eab1-4d59-8720-ce483ea32791)
 
 2. Set up a NAT network, enabling all virtual machines to share the same network and be able to communicate with each other.
 
-![image](https://github.com/user-attachments/assets/baed67dd-3db8-45eb-aca1-615b2626bc28)
 
 3. Installed and configured Splunk on the Splunk Server (Ubuntu).
 
-![image](https://github.com/user-attachments/assets/9d9c2a7a-1e66-48ab-a89e-bc93cdbe217f)
-
 3. Installed and configured Splunk Forwarder and Sysmon on the target machine (Windows 10).
 
-![image](https://github.com/user-attachments/assets/be586e26-dea3-434c-97a8-15d644005f9d)
 
-4. Connected and Sent the target logs to the Splunk Server.
-
-![image](https://github.com/user-attachments/assets/b72f4087-a578-45e0-9987-ec3737c40190)
+4. Connected and Sent the target logs to the Splunk Server
 
 
